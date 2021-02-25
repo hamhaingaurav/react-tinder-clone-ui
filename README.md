@@ -1,1 +1,0 @@
-### Simple ReactJS tinder UI clone
